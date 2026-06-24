@@ -7,3 +7,5 @@ Created on Tue Jun 23 20:02:13 2026
 """
 
 # Versão 1
+# Versão 2
+# Versão 3
